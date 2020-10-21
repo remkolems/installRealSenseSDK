@@ -30,6 +30,14 @@ This script will build librealsense from source and install it on the system. It
 <em><b>Note:</b> The build uses libuvc. You will not have to rebuild the kernel or modules in order to use this build.</em>
 
 <h2>Notes</h2>
+<h4>October, 2020</h4>
+
+* Release L4T 32.4.3
+* Jetson Nano, Jetson NX, Jetson TX1, Jetson TX2, Jetson AGX Xavier
+* L4T 32.4.3, JetPack 4.4, Kernel 4.9.140
+* librealsense version v2.39.0
+* Cuda 10.2
+
 
 <h4>January, 2020</h4>
 
