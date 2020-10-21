@@ -3,10 +3,11 @@
 # Copyright (c) 2016-19 Jetsonhacks 
 # MIT License
 
-# Jetson Nano; L4T 32.2.3
+# Jetson Nano/NX; JetPack 4.4/L4T 32.4.3
+# Validated on NX + JetPack 4.4? Status: to do
 
 LIBREALSENSE_DIRECTORY=${HOME}/librealsense
-LIBREALSENSE_VERSION=v2.31.0
+LIBREALSENSE_VERSION=v2.39.0
 INSTALL_DIR=$PWD
 NVCC_PATH=/usr/local/cuda-10.0/bin/nvcc
 
