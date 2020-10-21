@@ -12,4 +12,3 @@ sudo add-apt-repository "deb http://realsense-hw-public.s3.amazonaws.com/Debian/
 
 sudo apt-get install apt-utils -y
 sudo apt-get install librealsense2-utils librealsense2-dev -y
-
